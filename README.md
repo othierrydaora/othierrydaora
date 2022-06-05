@@ -1,4 +1,4 @@
-### Alô <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+### Alô <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
 <div style="inline_block">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=othierrydaora&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
